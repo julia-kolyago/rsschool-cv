@@ -1,1 +1,1 @@
-# rsschool-cv
+https://julia-kolyago.github.io/rsschool-cv/
